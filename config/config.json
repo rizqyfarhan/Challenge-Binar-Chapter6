@@ -1,0 +1,23 @@
+{
+  "development": {
+    "username": "farhan",
+    "password": null,
+    "database": "game_development",
+    "host": "127.0.0.1",
+    "dialect": "postgres"
+  },
+  "test": {
+    "username": "farhan",
+    "password": null,
+    "database": "game_test",
+    "host": "127.0.0.1",
+    "dialect": "postgres"
+  },
+  "production": {
+    "username": "farhan",
+    "password": null,
+    "database": "game_production",
+    "host": "127.0.0.1",
+    "dialect": "postgres"
+  }
+}
